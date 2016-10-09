@@ -16,4 +16,8 @@
 		{
 			return view('home/login1');
 		}
+		public function qingjie123()
+		{
+			return view('home/login1');
+		}
 	}
